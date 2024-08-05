@@ -1,7 +1,8 @@
 # Was Geht / Whats up
 👋 Hi I am Haroon based in I am based in Manchester UK
 # What I currently do ?
-I work at a Start up Called The Insights family - I am repsonsible for various task such mainting pipleines, reprots, keep up to date with AWS and trianing in the team 
+I work at a Start up Called The Insights family - 
+- I work on various projects from automation to LLMS
 # My Hobbies
 -  i like  do these things 🏀Basketball - 👟Running - Trekking - 👨‍💻Coding
 - 👀 I’m interested in Data Science, Data Engineering ,Data analysis
