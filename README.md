@@ -1,3 +1,4 @@
+# Introduction
 👋 My name is Haroon Iqbal, and I am a Data Scientist at The Insights Family, a company committed to transforming how organizations leverage market intelligence at global, regional, and local levels through a unique methodology. I have successfully led multiple Data Science and Data Engineering projects, driving data-driven decision-making that not only fosters company growth but also enhances operational productivity.
 
 # My Hobbies
