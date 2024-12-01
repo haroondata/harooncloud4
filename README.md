@@ -10,7 +10,7 @@
 
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harooniqbal)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harooniqbal24)  
 
 <!---
 harooncloud4/harooncloud4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
