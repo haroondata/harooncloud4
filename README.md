@@ -9,6 +9,9 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,java,kafka,linux,dynamodb,mysql,py,r,github,postgres,powershell,pytorch,sqlite,selenium,tensorflow,vscode&perline=20)](https://skillicons.dev)
 
 
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harooniqbal)  
+
 <!---
 harooncloud4/harooncloud4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
